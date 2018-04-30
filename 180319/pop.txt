@@ -1,0 +1,29 @@
+#
+# Growth of Paramecium Aurelia in isolation. Density is the number per 0.5 cm^3
+# Data from Gause, The Struggle for Existence, Dover, NY, 2003.
+#
+#    Day (n) Mean density
+1 14
+2 34
+3 56
+4 94
+5 189
+6 266
+7 330
+8 416
+9 507
+10 580
+11 610
+12 513
+13 593
+14 557
+15 560
+16 522
+17 565
+18 517
+19 500
+20 585
+21 500
+22 495
+23 525
+24 510
